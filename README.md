@@ -8,4 +8,6 @@ pkg install lolcat
 
 cd Htool 
 
-bash 
+bash KTool.sh
+
+
